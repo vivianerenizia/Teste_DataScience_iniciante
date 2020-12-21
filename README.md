@@ -1,24 +1,13 @@
-# Nome do Projeto 
-### Descrição do Projeto
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+# Data Science Challenge InMetrics  
 
 <h4 align="center"> 
-	🚧  Desafio InMetrics 🚀 Em construção...  🚧
+	🚧  Desafio Data Science 🚀 Em construção...  🚧
 </h4>
 
-### Features
+### :beginner: Esse desafio é composto por 2 testes de Data Science: 
 
-- [x] Item
-- [x] Item
-- [ ] Item
+- [x] Clusterização 
+- [x] Previsão - AirPassengers
 
 ### 🛠 Tecnologias
 
