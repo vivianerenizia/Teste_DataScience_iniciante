@@ -13,9 +13,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Nome](Link)
-- [Nome](Link)
-- [Nome](Link)
+- [Notebook Lab (ambiente)](Link)
+- [Python (linguagem)](Link)
+- [Prophet (biblioteca)](Link)
 - [Nome](Link)
 - [Nome](Link)
 
@@ -36,7 +36,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
 
@@ -48,7 +47,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Viviane Renizia</b></sub></a> <a href="https://github.com/vivianerenizia" title="Rocketseat">🚀</a>
  <br />
  
-![Badge](https://img.shields.io/github/followers/vivianerenizia?label=Viviane%20Renizia&style=social)  ![Badge](https://img.shields.io/twitter/follow/viviane_renizia?label=Viviane%20Renizia&style=social)
+ 
+![Badge](https://img.shields.io/github/followers/vivianerenizia?label=Viviane%20Renizia&style=social)  
 
 
 ---
