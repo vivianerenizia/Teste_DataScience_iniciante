@@ -1,7 +1,7 @@
 # Data Science Challenge InMetrics  
 
 <h4 align="center"> 
-	🚧  Desafio Data Science 🚀 Em construção...  🚧
+	🚀 Desafio Data Science 🚀 
 </h4>
 
 ### :beginner: Esse desafio é composto por 2 testes de Data Science: 
