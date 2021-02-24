@@ -13,11 +13,16 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Notebook Lab (ambiente)](Link)
-- [Python (linguagem)](Link)
-- [Prophet (biblioteca)](Link)
-- [Nome](Link)
-- [Nome](Link)
+- [Jupyter Lab (ambiente)](https://jupyterlab.readthedocs.io/en/stable/)
+- [Python (linguagem)](https://www.python.org/)
+- [Prophet (biblioteca)](https://facebook.github.io/prophet/)
+- [NumPy (biblioteca)](https://numpy.org/)
+- [Pandas (biblioteca)](https://pandas.pydata.org/)
+- [Matplotlib (biblioteca)](https://matplotlib.org/stable/index.html)
+- [Plotly (biblioteca)](https://plotly.com/python/)
+- [Scikit-learn (biblioteca)](https://scikit-learn.org/stable/)
+
+
 
 ## 👨‍💻 Contribuidores
 
