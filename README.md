@@ -1,4 +1,4 @@
-# Data Science Challenge InMetrics  
+# Data Science Challenge
 
 <h4 align="center"> 
 	🚀 Desafio Data Science 🚀 
